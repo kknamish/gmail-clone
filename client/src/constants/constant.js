@@ -1,1 +1,1 @@
-export const gmailLogo = 'https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png'
+export const gmailLogo = 'https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-5-1.png'
